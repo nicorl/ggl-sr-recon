@@ -6,6 +6,8 @@
 2. Crear un entorno virtual con python 3.7
 3. Instalar mediante pip: SpeechRecognition y pyAudio
 
+
+
 ## Ejecución
 
 1. Abrir el entorno virtual de python 3.7
