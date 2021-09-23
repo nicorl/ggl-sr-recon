@@ -1,4 +1,4 @@
-# Instrucciones de instalación
+# Instalación
 
 1. Descargar Anaconda
 2. Crear un entorno virtual con python 3.7
@@ -27,4 +27,6 @@ pip install pyaudio
 
 La wheel probada de pyaudio es `PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl`
 
-[Ejemplo desde Geekscoders](https://geekscoders.com/python-speech-recognition-tutorial-for-beginners/)
+[Código ejemplo de Geekscoders](https://geekscoders.com/python-speech-recognition-tutorial-for-beginners/)
+
+[Un ejemplo grabado por mi en castellano]()
