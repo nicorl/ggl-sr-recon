@@ -29,4 +29,4 @@ La wheel probada de pyaudio es `PyAudio‑0.2.11‑cp37‑cp37m‑win_amd64.whl`
 
 [Código ejemplo de Geekscoders](https://geekscoders.com/python-speech-recognition-tutorial-for-beginners/)
 
-[Un ejemplo grabado por mi en castellano]()
+[Un ejemplo grabado por mi en castellano](https://youtu.be/b56q9gvta1Y)
