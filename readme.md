@@ -1,3 +1,5 @@
+[](https://img.shields.io/github/v/release/nicorl/ggl-sr-recon?style=flat-square)
+
 ## Instalación
 
 1. Descargar Anaconda
